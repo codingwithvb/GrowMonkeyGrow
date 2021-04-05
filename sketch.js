@@ -654,8 +654,7 @@ if(score > sessionHighScoreBattery){
     timedGame.visible = false;
     monkey2.visible = false; 
     Multiplayer2.visible = false; 
-    rps.visible = false; 
-
+    
     homePage.visible = true; 
 
     stroke("white");

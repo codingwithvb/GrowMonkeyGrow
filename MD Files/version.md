@@ -30,3 +30,6 @@ March 20th, 2021,
 
 March 28th, 2021, 
 - Version 1.5 - Multiplayer is not in Beta anymore!
+
+April 4th, 2021, 
+- Version 1.6 - Session Highscores added!
